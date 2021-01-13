@@ -1,5 +1,3 @@
 # hello-world
-Understanding how github works
-
-
-Now, let me see how the commit works
+1st: Understanding how github works
+2nd: Now, let me see how the commit works
